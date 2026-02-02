@@ -1,0 +1,4 @@
+scoreboard:
+  name: '&fName: &a%player_name%'
+  ping: '&fPing: &a%player_ping%'
+  server: '&fOnline: &a%server_online%'
