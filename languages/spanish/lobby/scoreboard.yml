@@ -1,0 +1,5 @@
+scoreboard:
+  title: '&e&lLOBBY'
+  name: '&fNombre: &a%player_name%'
+  ping: '&fConexión: &a%player_ping%'
+  server: '&fConectados: &a%server_online%'
